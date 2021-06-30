@@ -71,7 +71,7 @@ class MyDocument extends Document {
                 </a>
               </li>
               <li>
-                <a href="https://github.com/RajSolai/personal-portfolio">
+                <a href="https://github.com/RajSolai/rajsolai.github.io/raw/master/res/solairajresume.pdf">
                   <IoMdDocument />
                   &nbsp;Resume
                 </a>
